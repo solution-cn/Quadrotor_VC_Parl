@@ -36,7 +36,7 @@ C_R:-1093.8570576218024 , D_R:-958.0931151165605<br>
 在去除寿命指标后调整动作更加迅速<br>
 >![](https://github.com/solution-cn/pic/blob/master/L3.gif)  <br> 
 
-最后附上零操作py文件，以证明可以在原reward中取得平均-20左右的test_reward。<br>
+最后附上velocity.py文件，以证明电机保持0.1电压也可以在该环境中以原reward计算方式取得平均-20左右的test_reward。<br>
 见 velocity.py<br>
 
 ---
